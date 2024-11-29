@@ -103,9 +103,7 @@ Better to use anaconda environemnt to easily install the dependencies (especiall
     - [Kaggle Fer2013 challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
     - [Dlib Shape Predictor model](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
 
-2. Unzip the downloaded files
 
-    And put the files `fer2013.csv` and `shape_predictor_68_face_landmarks.dat` in the root folder of this package.
 
 3. Convert the dataset to extract Face Landmarks and HOG Features
     ```
